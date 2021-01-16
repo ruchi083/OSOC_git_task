@@ -1,4 +1,9 @@
 merger conflicts
 Creating merge conflicts
 file to mess with
+<<<<<<< HEAD
 this is to create merge conflict
+=======
+merge conflict in merge branch
+Creating merge conflicts
+>>>>>>> conflict
