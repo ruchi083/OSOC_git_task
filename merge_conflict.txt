@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 append merge_conflict
+=======
+merger conflicts
+Creating merge conflicts
+file to mess with
+this is to create merge conflict
+>>>>>>> origin
+this is second conflict
