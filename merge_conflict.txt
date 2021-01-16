@@ -2,3 +2,4 @@ merger conflicts
 Creating merge conflicts
 file to mess with
 merge conflict in merge branch
+Creating merge conflicts
