@@ -1,9 +1,18 @@
+<<<<<<< HEAD
+append merge_conflict
+=======
 merger conflicts
 Creating merge conflicts
 file to mess with
 <<<<<<< HEAD
 this is to create merge conflict
+<<<<<<< HEAD
 =======
 merge conflict in merge branch
 Creating merge conflicts
 >>>>>>> conflict
+=======
+>>>>>>> origin
+this is second conflict
+>>>>>>> second_branch
+last conflict
